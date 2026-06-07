@@ -1,7 +1,7 @@
 # 📊 Mini Excel JS
 
 <p align="center">
-  <img src="img/preview.png" width="450" title="Mini Excel JS" alt="Mini Excel JS Preview" />
+  <img src="img/preview.png" width="400" title="Mini Excel JS" alt="Mini Excel JS Preview" />
 </p>
 
 <p align="center">
@@ -13,15 +13,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/alobuuls/mini-excel-js" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white" alt="Repository" />
-  </a>
-  <a href="https://github.com/alobuuls/mini-excel-js/stargazers" target="_blank">
-    <img src="https://img.shields.io/github/stars/alobuuls/mini-excel-js?style=social" alt="GitHub Stars" />
-  </a>
-  <a href="https://github.com/alobuuls/mini-excel-js/commits/main" target="_blank">
-    <img src="https://img.shields.io/github/last-commit/alobuuls/mini-excel-js" alt="Last Commit" />
-  </a>
+  <a href="https://github.com/alobuuls/mini-excel-js" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white" alt="Repository" /></a>
+  <a href="https://github.com/alobuuls/mini-excel-js/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/alobuuls/mini-excel-js?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/alobuuls/mini-excel-js/commits/main" target="_blank"><img src="https://img.shields.io/github/last-commit/alobuuls/mini-excel-js" alt="Last Commit" /></a>
 </p>
 
 ---
